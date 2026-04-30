@@ -1,8 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-logs/
-outputs/
-dataset/
-models/*.pt
-models/*.pth
